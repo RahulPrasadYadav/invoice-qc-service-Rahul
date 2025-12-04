@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+pdfplumber
+pydantic>=2.0
+python-dateutil
+typer[all]
+rich
